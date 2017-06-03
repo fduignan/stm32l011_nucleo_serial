@@ -1,6 +1,6 @@
 // stm32l011 low level header file
 // No guarantees or claims of suitability,reliability or safety of any kind are implied or given
-// All the values below were taken from the STM32F030xx reference manual (RM0377)
+// All the values below were taken from the STM32l011 reference manual (RM0377)
 // Also include macros for enabling and disabling global interrupts
 // Written by Frank Duignan
 // stm32f011.h
